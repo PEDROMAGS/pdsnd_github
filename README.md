@@ -4,7 +4,7 @@
 07/10/2021
 
 ### Project Title
-Replace the Project Title
+Udacity Data Science Nanodegree - Git and GitHub Project
 
 ### Description
 Describe what your project is about and what it does
